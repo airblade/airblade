@@ -6,8 +6,8 @@ Here are my main open source repos.
 - [quo_vadis](//github.com/airblade/quo_vadis) - multifactor authentication for Rails 6 and 7.
   - Devise is over-engineered; rodauth and Rails are different shapes.
 - [template_form](//github.com/airblade/template_form) - simple Rails form builder using templates to define the HTML.
-  - Use, well, HTML to specify the HTML you want.
-  - I use this in all my Rails apps and it does everything I need.
+  - Specify the HTML you want with, well, HTML (not Ruby, unlike most form builders).
+  - I use this in all my Rails apps; it does everything I need (and nothing I don't, so it may not cover your use case).
 - [logicum](//github.com/airblade/logicum) - a simple, consistent interface for executing a unit of business logic.
   - A bit of an experiment but it works well.
 - [css_dryer](//github.com/airblade/css_dryer) - the first nested-CSS plugin for Rails (2006!).
