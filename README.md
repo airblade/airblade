@@ -24,6 +24,7 @@ Here are my main open source repos.
 
 - [vim-gitgutter](//github.com/airblade/vim-gitgutter) - shows git diff markers in the sign column and stages/unstages/undoes hunks and partial hunks.
   - Including intra-line highlighting more sophisticated than GitHub's.
+  - Vim's most popular diff plugin and my most starred repo.
 - [vim-rooter](//github.com/airblade/vim-rooter) - changes Vim working directory to project root.
   - Originally written for the one and only Topfunky.
 - [vim-localorie](//github.com/airblade/vim-localorie) - easy lookup of translations for Rails i18n YAML keys.
