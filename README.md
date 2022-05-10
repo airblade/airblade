@@ -4,7 +4,7 @@ Here are my main open source repos.
 ### Ruby / Rails
 
 - [quo_vadis](//github.com/airblade/quo_vadis) - multifactor authentication for Rails 6 and 7.
-  - Devise is over-engineered; rodauth is a square peg, round hole.
+  - Devise is over-engineered; rodauth and Rails are different shapes.
 - [template_form](//github.com/airblade/template_form) - simple Rails form builder using templates to define the HTML.
   - Use, well, HTML to specify the HTML you want.
   - I use this in all my Rails apps and it does everything I need.
