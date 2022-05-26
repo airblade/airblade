@@ -9,7 +9,7 @@ Here are my main open source repos.
   - Specify the HTML you want with, well, HTML (not Ruby, unlike most form builders).
   - I use this in all my Rails apps; it does everything I need (and nothing I don't, so it may not cover your use case).
 - [logicum](//github.com/airblade/logicum) - a simple, consistent interface for executing a unit of business logic.
-  - A bit of an experiment but it works well.
+  - An experiment; it works well but I'm not sure how much benefit there really is.
 - [paper_trail](//github.com/paper-trail-gem/paper_trail) - tracks changes to your Rails models.
   - I released this in 2010, grew it for a couple of years into the most popular versioning gem for Rails, then handed it to a new maintainer.
 - [css_dryer](//github.com/airblade/css_dryer) - the first nested-CSS plugin for Rails (2006!).
