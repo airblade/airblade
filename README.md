@@ -3,6 +3,8 @@ Here are my main open source repos.
 
 ### Ruby / Rails
 
+- [factor](//github.com/airblade/factor) - a zero-dependency Ruby client for FreeAgent's API.
+  - Factor has shown its mettle over 5 years of constant production use.
 - [quo_vadis](//github.com/airblade/quo_vadis) - multifactor authentication for Rails 6 and 7.
   - Devise is over-engineered; rodauth and Rails are different shapes.
 - [template_form](//github.com/airblade/template_form) - simple Rails form builder using templates to define the HTML.
