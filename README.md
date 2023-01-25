@@ -43,6 +43,9 @@ Here are my main open source repos.
 
 ### Other
 
+- [tcs](//github.comm/airblade/tcs) - Tailwind class sorter.
+  - Sorts the classes in your HTML into Tailwind's recommended class order.
+  - Standalone; does not require Prettier.
 - [git-stager](//github.com/airblade/git-stager) - stage and unstage files using only your space bar.
   - No more `git add path/to/deeply/nested/file`.
   - Written in Ruby but I feel it should be bash or POSIX shell.
