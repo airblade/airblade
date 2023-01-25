@@ -38,6 +38,7 @@ Here are my main open source repos.
 - [vim-highline](//github.com/airblade/vim-highline) - toggle a line highlight for any line.
 - [vim-accent](//github.com/airblade/vim-accent) - type accented characters without remembering their pseudo versions.
 - [vim-current-search-match](//github.com/airblade/vim-current-search-match) - highlights the current search match.
+- [vim-tcs](//github.com/airblade/vim-tcs) - integrates [tcs](//github.comm/airblade/tcs) with Vim.
 - [voom](//github.com/airblade/voom) - a simplest-thing-that-works plugin manager for Vim.
 
 
