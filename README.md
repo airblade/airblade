@@ -14,12 +14,18 @@ Here are my main open source repos.
   - An experiment; it works well but I'm not sure how much benefit there really is.
 - [paper_trail](//github.com/paper-trail-gem/paper_trail) - tracks changes to your Rails models.
   - I released this in 2010, grew it for a couple of years into the most popular versioning gem for Rails, then handed it to a new maintainer.
+
+
+### CSS
+
+- [tcs](//github.com/airblade/tcs) - Tailwind class sorter.
+  - Sorts the classes in your HTML into Tailwind's recommended class order.
+  - Standalone; does not require Prettier.
 - [css_dryer](//github.com/airblade/css_dryer) - the first nested-CSS plugin for Rails (2006!).
   - Happy times!
 
 
 ### JavaScript
-
 - [stimulus-datepicker](//github.com/airblade/stimulus-datepicker) - Stimulus-powered, accessible date picker.
   - Also supports Vim hjkl navigation :)
 
@@ -44,9 +50,6 @@ Here are my main open source repos.
 
 ### Other
 
-- [tcs](//github.com/airblade/tcs) - Tailwind class sorter.
-  - Sorts the classes in your HTML into Tailwind's recommended class order.
-  - Standalone; does not require Prettier.
 - [git-stager](//github.com/airblade/git-stager) - stage and unstage files using only your space bar.
   - No more `git add path/to/deeply/nested/file`.
   - Written in Ruby but I feel it should be bash or POSIX shell.
