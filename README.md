@@ -36,7 +36,7 @@ Here are my main open source repos.
   - Including intra-line highlighting more sophisticated than GitHub's.
   - Vim's most popular diff plugin and my most starred repo.
 - [vim-rooter](//github.com/airblade/vim-rooter) - changes Vim working directory to project root.
-  - Originally written for the one and only Topfunky.
+  - Originally written for the one and only @topfunky.
 - [vim-localorie](//github.com/airblade/vim-localorie) - easy lookup of translations for Rails i18n YAML keys.
   - The niftiest part is a line-number-preserving YAML reader
 - [vim-matchquote](//github.com/airblade/vim-matchquote) - %-style motion for single/double quotation marks, backticks, and pipe.
