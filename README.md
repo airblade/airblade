@@ -20,7 +20,8 @@ Here are my main open source repos.
 
 - [tcs](//github.com/airblade/tcs) - Tailwind class sorter.
   - Sorts the classes in your HTML into Tailwind's recommended class order.
-  - Standalone; does not require Prettier.
+  - Standalone: does not require Prettier and does not include 9,000 hardcoded class names :)
+  - See [vim-tcs](//github.com/airblade/vim-tcs) below for a Vim integration.
 - [css_dryer](//github.com/airblade/css_dryer) - the first nested-CSS plugin for Rails (2006!).
   - Happy times!
 
@@ -44,9 +45,10 @@ Here are my main open source repos.
 - [vim-highline](//github.com/airblade/vim-highline) - toggle a line highlight for any line.
 - [vim-accent](//github.com/airblade/vim-accent) - type accented characters without remembering their pseudo versions.
 - [vim-current-search-match](//github.com/airblade/vim-current-search-match) - highlights the current search match.
-- [vim-tcs](//github.com/airblade/vim-tcs) - integrates [tcs](//github.comm/airblade/tcs) with Vim.
+- [vim-tailwind](//github.com/airblade/vim-tailwind) - autocomplete Tailwind class names without LSP.
+- [vim-tcs](//github.com/airblade/vim-tcs) - integrates [tcs](//github.com/airblade/tcs) with Vim.
 - [voom](//github.com/airblade/voom) - a simplest-thing-that-works plugin manager for Vim.
-- [Kite's vim plugin](https://github.com/kiteco/vim-plugin) - integrates Kite's AI code completion with Vim.
+- [Kite's vim plugin](//github.com/kiteco/vim-plugin) - integrates Kite's AI code completion with Vim.
 
 
 ### Other
