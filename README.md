@@ -38,6 +38,7 @@ Here are my main open source repos.
   - Vim's most popular diff plugin and my most starred repo.
 - [vim-rooter](//github.com/airblade/vim-rooter) - changes Vim working directory to project root.
   - Originally written for the one and only @topfunky.
+- [vim-tailwind](//github.com/airblade/vim-tailwind) - autocomplete Tailwind class names without LSP.
 - [vim-localorie](//github.com/airblade/vim-localorie) - easy lookup of translations for Rails i18n YAML keys.
   - The niftiest part is a line-number-preserving YAML reader
 - [vim-matchquote](//github.com/airblade/vim-matchquote) - %-style motion for single/double quotation marks, backticks, and pipe.
@@ -45,7 +46,6 @@ Here are my main open source repos.
 - [vim-highline](//github.com/airblade/vim-highline) - toggle a line highlight for any line.
 - [vim-accent](//github.com/airblade/vim-accent) - type accented characters without remembering their pseudo versions.
 - [vim-current-search-match](//github.com/airblade/vim-current-search-match) - highlights the current search match.
-- [vim-tailwind](//github.com/airblade/vim-tailwind) - autocomplete Tailwind class names without LSP.
 - [vim-tcs](//github.com/airblade/vim-tcs) - integrates [tcs](//github.com/airblade/tcs) with Vim.
 - [voom](//github.com/airblade/voom) - a simplest-thing-that-works plugin manager for Vim.
 - [Kite's vim plugin](//github.com/kiteco/vim-plugin) - integrates Kite's AI code completion with Vim.
