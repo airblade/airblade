@@ -42,6 +42,7 @@ Here are my main open source repos.
 - [vim-tailwind](//github.com/airblade/vim-tailwind) - autocomplete Tailwind class names without LSP.
 - [vim-localorie](//github.com/airblade/vim-localorie) - easy lookup of translations for Rails i18n YAML keys.
   - The niftiest part is a line-number-preserving YAML reader
+- [vim-interdental](//github.com/airblade/vim-interdental) - indent guides that span empty lines.
 - [vim-matchquote](//github.com/airblade/vim-matchquote) - %-style motion for single/double quotation marks, backticks, and pipe.
 - [vim-tag-closer](//github.com/airblade/vim-tag-closer) - close HTML tags on demand.
 - [vim-highline](//github.com/airblade/vim-highline) - toggle a line highlight for any line.
