@@ -27,7 +27,7 @@ Here are my main open source repos.
 
 
 ### JavaScript
-- [headlessui-stimulus](https://airblade.github.io/headlessui-stimulus/) - Headless UI components ported to Stimulus.
+- [headlessui-stimulus](https://headlessui-stimulus.com/) - Headless UI components ported to Stimulus.
 - [stimulus-datepicker](//github.com/airblade/stimulus-datepicker) - Stimulus-powered, accessible date picker.
   - Also supports Vim hjkl navigation :)
 
