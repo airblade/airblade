@@ -3,7 +3,7 @@ Here are my main open source repos.
 
 ### Ruby / Rails
 
-- [quo_vadis](//github.com/airblade/quo_vadis) - multifactor authentication for Rails 6 and 7.
+- [quo_vadis](//github.com/airblade/quo_vadis) - multifactor authentication for Rails 7+ (backward compatible to Rails 6).
   - Devise is over-engineered; rodauth and Rails are different shapes.
 - [factor](//github.com/airblade/factor-public) - a zero-dependency Ruby client for FreeAgent's API.
   - Factor has shown its mettle over 5 years of constant production use.
